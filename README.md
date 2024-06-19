@@ -217,4 +217,8 @@ https://blog.csdn.net/anshuai_aw1/article/details/82983997
 
 https://ieeexplore.ieee.org/iel7/7153596/7160221/07160458.pdf
 
+- Data Science & Machine Learning Program
+
+https://www.scaler.com/data-science-course/
+
 
